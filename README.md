@@ -4,5 +4,5 @@
 ### haha
 just a test repository
 
-[test](www.baidu.com "baidu")
+[test](http://baidu.com "baidu")
 
